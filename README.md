@@ -41,7 +41,7 @@ $ gcc -Wall -Werror -Wextra -pedantic *.c
 Our main files will include your main header file (holberton.h): #include holberton.h
 You might want to look at the gcc flag -Wno-format when testing with your /_printf and the standard printf. Example of test file that you could use:
 ```
-alex@ubuntu:~/c/printf$ cat main.c 
+emos@ubuntu:~/c/printf$ cat main.c 
 #include <limits.h>
 #include <stdio.h>
 #include "holberton.h"
@@ -245,11 +245,6 @@ Conversion specifiers to handle: d, i, u, o, x, X
 ##### REPO:
 * GitHub repository: printf
 #
-### Authors
-
-* [Camilo Bayona Orduz](https://www.camilobayona.com) - *Initial work* - [cbayonao](https://github.com/cbayonao)
-* [Cristiam Camilo Baquero](https://www.camilobaquero.com) - *Initial work* - [camilooob](https://github.com/camilooob)
-
 ### Acknowledgments
 
 * Follow the framework
